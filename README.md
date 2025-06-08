@@ -16,7 +16,7 @@ Here's what I'm working on right now:
 <a href="https://github.com/BhavyeMathur/redstone-ml">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BhavyeMathur&repo=redstone-ml" />
 </a>
-<a href="https://github.com/BhavyeMathur/goopylib">
+<a href="https://github.com/BhavyeMathur">
   <img width=370 align="center" src="https://github-readme-stats.vercel.app/api?username=BhavyeMathur&hide=contribs" />
 </a>
 
